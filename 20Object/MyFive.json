@@ -1,0 +1,49 @@
+{
+	"pattrstorage" : 	{
+		"name" : "MyFive",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"myfive" : [ 64 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"myfive" : [ 64 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"myfive" : [ 13 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"myfive" : [ 118 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"myfive" : [ 3 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
