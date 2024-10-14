@@ -44,7 +44,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 808.0, 90.0, 150.0, 21.0 ],
+					"patching_rect" : [ 955.0, 67.0, 23.0, 21.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 800.0, 83.5, 29.0, 21.0 ],
 					"text" : "Or",
@@ -135,7 +135,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1146.0, 39.0, 150.0, 39.0 ],
+					"patching_rect" : [ 917.0, 105.0, 150.0, 39.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 745.0, 34.0, 150.0, 39.0 ],
@@ -392,13 +392,11 @@
 					"dontreplace" : 1,
 					"gradient" : 1,
 					"id" : "obj-5",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 388.0, 113.0, 148.0, 37.0 ],
-					"text" : "done 1 \"Questions - MiddleKids.mp3\""
+					"patching_rect" : [ 388.0, 113.0, 148.0, 23.0 ]
 				}
 
 			}
@@ -727,20 +725,6 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "Keep Going - Guster.wav",
-				"bootpath" : "~/Documents/ATLAS Classes/Interactive Sound/interactive-sound/VizzieBeap/EB_BeapVizzieLoop/media",
-				"patcherrelativepath" : "../media",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "Questions - MiddleKids.mp3",
-				"bootpath" : "~/Documents/ATLAS Classes/Interactive Sound/interactive-sound/VizzieBeap/EB_BeapVizzieLoop/media",
-				"patcherrelativepath" : "../media",
-				"type" : "Mp3",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "bp.Stereo.maxpat",
 				"bootpath" : "C74:/packages/BEAP/clippings/BEAP/Output",
 				"type" : "JSON",
