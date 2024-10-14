@@ -436,10 +436,10 @@
 
 							}
 , 							{
-								"absolutepath" : "Keep Going - Guster.wav",
-								"filename" : "Keep Going - Guster.wav",
+								"absolutepath" : "Keep Going - Guster.mp3",
+								"filename" : "Keep Going - Guster.mp3",
 								"filekind" : "audiofile",
-								"id" : "u763008525",
+								"id" : "u090005944",
 								"loop" : 0,
 								"content_state" : 								{
 
@@ -725,6 +725,20 @@
 		}
 ,
 		"dependency_cache" : [ 			{
+				"name" : "Keep Going - Guster.mp3",
+				"bootpath" : "~/Documents/ATLAS Classes/Interactive Sound/interactive-sound/VizzieBeap/EB_BeapVizzieLoop/media",
+				"patcherrelativepath" : "../media",
+				"type" : "Mp3",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "Questions - MiddleKids.mp3",
+				"bootpath" : "~/Documents/ATLAS Classes/Interactive Sound/interactive-sound/VizzieBeap/EB_BeapVizzieLoop/media",
+				"patcherrelativepath" : "../media",
+				"type" : "Mp3",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "bp.Stereo.maxpat",
 				"bootpath" : "C74:/packages/BEAP/clippings/BEAP/Output",
 				"type" : "JSON",
