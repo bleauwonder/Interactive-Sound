@@ -1,0 +1,60 @@
+{
+	"pattrstorage" : 	{
+		"name" : "vizziebeap",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bp.Stereo::DSP" : [ 1.0 ],
+					"bp.Stereo::Level" : [ -14.041178732729181 ],
+					"bp.Stereo::Mute" : [ 0.0 ],
+					"bp.Stereo::OutputChannel" : [ 0.0 ],
+					"viewr[1]::lboxmenu" : [ 0.0 ],
+					"playr::playercontrols::play-mult" : [ 0 ],
+					"playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"playr::playercontrols::Speed_low" : [ 1.0 ],
+					"viewr[2]::lboxmenu" : [ 0.0 ],
+					"vz.tracr[1]::thresh" : [ 0.5 ],
+					"vz.tracr[1]::invert" : [ 0.0 ],
+					"bp.Classroom Filter::CV1" : [ 67.716535433070831 ],
+					"bp.Classroom Filter::CV2" : [ 59.842519685039427 ],
+					"bp.Classroom Filter::CV3" : [ 75.590551181102342 ],
+					"bp.Classroom Filter::Freq" : [ 3326.044634429997586 ],
+					"bp.Classroom Filter::Gain" : [ 1.0 ],
+					"bp.Classroom Filter::Resonance" : [ 15.732202386685476 ],
+					"bp.Classroom Filter::filter_mode" : [ 3.0 ],
+					"bp.Classroom Filter::power[1]" : [ 0.0 ],
+					"bp.Classroom Filter::spectral" : [ 0.0 ],
+					"brcosr::bright-mult" : [ 1 ],
+					"brcosr::cont-mult" : [ 1 ],
+					"brcosr::sat-mult" : [ 1 ],
+					"brcosr::lobr" : [ -0.41828 ],
+					"brcosr::hibr" : [ -3.34624 ],
+					"brcosr::loco" : [ -1.0 ],
+					"brcosr::hico" : [ -8.0 ],
+					"brcosr::losa" : [ 1.0 ],
+					"brcosr::hisa" : [ 3.944879999999999 ],
+					"analyzr::Rmode" : [ 0.0 ],
+					"analyzr::Gmode" : [ 0.0 ],
+					"analyzr::Bmode" : [ 0.0 ],
+					"2toner::color1" : [ 0.099082628885904, 0.137419538295016, 1.0, 1.0, 0.659574468085106, 1.0, 0.549541314442952 ],
+					"2toner::color12" : [ 0.321304851108128, 1.0, 0.48014839659346, 1.0, 0.372340425531915, 1.0, 0.660652425554064 ],
+					"2toner::saturation1" : [ 1.0 ],
+					"2toner::saturation2[1]" : [ 1.0 ],
+					"zamplr::colormode" : [ 0.0 ],
+					"zamplr::gain" : [ 7.0 ],
+					"zamplr::horizontal" : [ 0.661417322834644 ],
+					"zamplr::vertical" : [ 1.0 ],
+					"zamplr::mode" : [ 0.0 ],
+					"mixfadr::operator" : [ 13.0 ],
+					"mixfadr::xfade-value" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
